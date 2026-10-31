@@ -1,1 +1,1 @@
-# scriptmm2
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImJkODg5NzJmLWRhZDMtNDcwOS1iMjJkLWRjYmU0MjBkMmM2YSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJwdWxzZSJ9fQ"))()
